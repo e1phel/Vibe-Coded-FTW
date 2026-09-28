@@ -4,7 +4,7 @@ import socket, threading, json
 import webview
 
 DEFAULT_HOST = "sxfjnapzke.localto.net"   # change to your tunnel host for remote use
-DEFAULT_PORT = "2119"        # change to your tunnel port for remote use
+DEFAULT_PORT = "8877"        # change to your tunnel port for remote use
 
 HTML = r"""<!DOCTYPE html><html><head><meta charset="utf-8"><style>
 *{box-sizing:border-box;margin:0}
